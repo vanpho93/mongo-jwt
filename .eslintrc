@@ -1,0 +1,12 @@
+{
+    "extends": "rallycoding",
+    "rules": {
+        "import/no-extraneous-dependencies": "off",
+        "no-underscore-dangle": "off",
+        "prefer-template": "off"
+    },
+    "env": {
+        "node": true,
+        "mocha": true
+    }
+}

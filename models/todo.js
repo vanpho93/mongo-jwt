@@ -1,6 +1,6 @@
-var mongoose = require('mongoose');
+const { mongoose } = require('../db/mongoose');
 
-var Todo = mongoose.model('Todo', {
+const Todo = mongoose.model('Todo', {
   text: {
     type: String,
     required: true,
@@ -17,4 +17,4 @@ var Todo = mongoose.model('Todo', {
   }
 });
 
-module.exports = {Todo};
+module.exports = { Todo };
