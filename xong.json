@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Lập trình Angular4 - Bài1: Giới thiệu",
+        "id": "q8RdFZw-gjo"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài2: Cài đặt",
+        "id": "ZLLA"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài3: Khái niệm component",
+        "id": "dgqeUH3Fsts"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài4: Tạo đơn giản",
+        "id": "UJiXDYOUrr0"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài5: Component decorators",
+        "id": "caP7dY9BY5c"
+    },
+    {
+        "name": "Lập tgular4 - Bài6: Nhúng bootstrap vào project",
+        "id": "OV2BfdHIZNM"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài7:  String interpolation",
+        "i3cAADJ6xsU"
+    },
+    {
+        "name": "Lập trình Angular4  - Bài8: Tạo component sử dụng Angular CLI và life cycle hooks",
+        "id": "rZJiEIBbzFAe": "Lập trình Angular4 - Bài9: Property binding",
+        "id": "ejgofI2boGg"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài10: Event binding",
+        "ido_5XKhV4"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài11: Xử lý text input",
+        "id": "K69HNZD40NU"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài12 binding",
+        "id": "N-IynSTscxE"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài13: Template reference variable",
+        "id": "tffiYscKEtA"
+    },
+    {
+        "name": "Larình Angular4 - Bài14: Style binding và class binding",
+        "id": "ZuvdS5No5Nk"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài15: Cơ bản vềe, ngStyle",
+        "id": "SDj23AqHIyY"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài16: ngIf",
+        "id": "oeoTQdUGy4k"
+    },
+    {
+        "name": "Lập trình Angular4 -:  ngFor đơn giản",
+        "id": "R7ri-7k9l0M"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài18: ngFor với mảng đối tượng",
+        "id": "p3TYvZm0y"Lập trình Angular4 - Bài19: Thêm phần tử vào mảng kết hợp ngFor","id":"pYf7Ut4Lzns"},{"name":"Lập trình Angular4 form","id":"uE9em6Uky8s"},{"name":"Lập trình Angular4 - Bài21: Xóa phần tử trong mảng hiển thị","id":"w2assjAO4Yg"},{trình Angular4 - Bài22: Lọc mảng hiển thị",
+        "id": "QMhsL_jPGuY"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài23: Thay đổi trạng thaong mảng hiển thị",
+        "id": "lrgJTpMO-mM"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài24: Input",
+        "id": "4PMffDQQdBU"
+    },
+    {
+        "name": "Lập trìn  - Bài25: ngFor kết hợp Input",
+        "id": "KcbqbP2abEk"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài26: Output1",
+        "id": "PFstqfK2D0c"
+    },
+    {
+        "nam trình Angular4 - Bài27: Output2",
+        "id": "Ag8cprd98eg"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài28: Ouput có tham số",
+        "id": "t-5MUapi"name":"Lập trình Angular4 - Bài29: Bài tập Output","id":"TQ-LyW4qsP8"},{"name":"Lập trình Angular4 - Bài30: Viewchild1",jI1W2aro"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài31: ViewChild2",
+        "id": "t1SKsTC-raU"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài32: ngConted": "EsLX8C6MRwA"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài33:  Build in pipes",
+        "id": "4zHjxGXj9eA"
+    },
+    {
+        "name": "Lập trình Angular4 - Bàustom pipe",
+        "id": "YLsYDlZIOi0"
+    },
+    {
+        "name": "Lập trình Angular4 - Bài35: Khái niệm service và http service",
+        "id": "ScZ-1IxFeuw"
+    }":"Lập trình Angular4 - Bài36: Tách service","id":"DwgiDXSfqJk"},{"name":"Lập trình Angular4 - Bài37: Sử dụng ngOnInit",aVDib1o"
+},
+{
+    "name": "Lập trình Angular4 - Bài38: Giới thiệu bài tập thời tiết",
+    "id": "cv1OphPpOaA"
+},
+{
+    "name": "Lập trì39: API open weather map",
+    "id": "HNG8_IcQH18"
+},
+{
+    "name": "Lập trình Angular4 - Bài40: Weather service",
+    "id": "VhuLdQ_LoAg"
+},
+{
+    "name"ập trình Angular4 - Bài41 Lấy nhiệt độ và hiển thị","id":"pUmPxjW_cPs"},{"name":"Lập trình Angular4 - Bài42: Tínhxử lý lỗi","id":"96up_VArm3M"},{"name":"Lập trình Angular4 - Bài43: Giới thiệu về form","id":"8hnuBLREDss"},{"name":ular4 - Bài44: ngForm",
+    "id": "2CfPXDIbYp0"
+},
+{
+    "name": "Lập trình Angular4 - Bài45: Validate template form",
+    "id": "A-YoYaRT5oY"
+},
+{
+    "n": "Lập trình Angular4 - Bài46: ngSubmit",
+    "id": "Vs07aUjJSW8"
+},
+{
+    "name": "Lập trình Angular4 - Bài47: Validate form1",
+    "id": "nPFoc"
+},
+{
+    "name": "Lập trình Angular4 - Bài48: Xử lý style các input không hợp lệ",
+    "id": "Ss9Bw_FoTeY"
+},
+{
+    "name": "Lập trình49: Xử lý checkbox và ngModelGroup",
+    "id": "Sg2bUUocvHw"
+},
+{
+    "name": "Lập trình Angular4 - Bài50: Tạo server nodejs",
+    "id": "gOSZ},{"name":"Lập trình Angular4 - Bài51: Gửi request từ form angular","id":"g2so2gm6ldw"},{"name":"Lập trình Angular4 - Bà service gửi request post","id":"Tf67PNDlu-4"},{"name":"Lập trình Angular4 - Bài53: Reactive form","id":"ZraONVxT4-c"},{"namep trình Angular4 - Bài54: Nested form group","id":"C08YZeJYhP4"},{"name":"Lập trình Angular4 - Bài55: Form builder","id":"q73tGHo"},{"name":"Lập trình Angular4 - Bài56: Reactive form validator","id":"-qZFY7sQMcc"},{"name":"Lập trình Angular4 - Bài57:m reactive form validator","id":"5fSFObDCo74"},{"name":"Lập trình Angular4 - Bài58: Routing đơn giản","id":"BQBI0n_Ol7Q"},{"n"Lập trình Angular4 - Bài59: Xử lý route ngoại lệ",
+    "id": "-WRWzP44bUQ"
+},
+{
+    "name": "Lập trình Angular4 - Bài60: App Routind": "FAHJcOnIAVI"
+},
+{
+    "name": "Lập trình Angular4 - Bài61: Routing với params",
+    "id": "nlveYGEsH1k"
+},
+{
+    "name": "Lập trình Angular4: Component modules",
+    "id": "OLMm7NZmkXM"
+},
+{
+    "name": "Lập trình Angular4 - Bài63:  Deploy github page",
+    "id":"o_eYZ9H2vtQ

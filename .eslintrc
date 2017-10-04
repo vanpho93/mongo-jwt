@@ -3,7 +3,8 @@
     "rules": {
         "import/no-extraneous-dependencies": "off",
         "no-underscore-dangle": "off",
-        "prefer-template": "off"
+        "prefer-template": "off",
+        "no-param-reassign": "off"
     },
     "env": {
         "node": true,

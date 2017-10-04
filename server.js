@@ -36,6 +36,21 @@ app.delete('/todo/:id', (req, res) => {
   .catch(() => res.status(404).send());
 });
 
+app.patch('/todo/:id', (req, res) => {
+  const { text, completed } = req.body;
+  Todo.findById(req.params.id)
+  .then(todo => {
+    if (!todo) return res.status(404).send();
+    const completedFirstTime = todo.completed === false && completed === true;
+    if (completedFirstTime) todo.completedAt = Date.now();
+    if (completed === true || completed === false) todo.completed = completed;
+    if (text) todo.text = text;
+    return todo.save();
+  })
+  .then((todoSaved) => res.send(todoSaved))
+  .catch(err => res.status(404).send({ err: err.message }));
+});
+
 app.listen(3000, () => console.log('Started on port 3000'));
 
 module.exports = { app };
